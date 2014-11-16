@@ -1,0 +1,19 @@
+{
+  "name": "mmsapp",
+  "version": "0.0.1",
+  "description": "Metamorphic Frontend App",
+  "author": "Mark Moloney",
+  "license": "Commercial",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-browserify": "^0.5.0",
+    "gulp-concat": "^2.4.1",
+    "reactify": "^0.16.0"
+  },
+  "dependencies": {
+    "es6-promise": "^2.0.0",
+    "react": "^0.12.0",
+    "react-async": "^2.0.1",
+    "react-router-component": "STRML/react-router-component#react-0.12"
+  }
+}
